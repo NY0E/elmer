@@ -141,7 +141,7 @@ export default function Elmer() {
             // you passed the exam. now what?
           </div>
           <p style={{ fontSize: "17px", lineHeight: "1.7", color: "#8a9ab8", margin: 0 }}>
-            Elmer doesn&apos;t explain things. He asks questions until you figure it out yourself.
+            No explanations. Just questions until you figure it out yourself.
             That&apos;s how real operational knowledge gets built — not from reading, from thinking.
           </p>
         </div>
